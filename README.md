@@ -5,6 +5,7 @@
 This application features the ability to simulate an incense burner.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703515-2b1cbc00-2d92-11ea-8029-81fcfbab315a.png)
 
 ## Application Compiling
 
